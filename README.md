@@ -96,37 +96,10 @@ Used GridSearchCV to find optimal parameters for all three models.
 
 ---
 
-## How to Run This Project
-
-1. **Clone or download** this repository
-2. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-```
-
-1. Open the notebook:
-   ```bash
-   jupyter notebook african_crises_project.ipynb
-   ```
-2. Run all cells
-
----
-
 Future Improvements
 
 - **Add recent data (2015–present)** — To test if patterns hold in modern economies
 - **Experiment with time-series models (LSTM)** — To capture temporal crisis patterns
 - **Build a simple dashboard** — For policymakers to monitor risk indicators
 
----
 
-Connect with Me
-
-· LinkedIn: [https://www.linkedin.com/in/nicodimus-munyuki-0832851b9]
-· Email: [nicodimusmunyuki2@gmail.com]
-
----
-
-Acknowledgments
-
-Dataset compiled from historical economic records. Project completed as part of data science portfolio.
