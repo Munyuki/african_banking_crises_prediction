@@ -77,13 +77,16 @@ Used GridSearchCV to find optimal parameters for all three models.
 ## Visualizations
 
 ### ROC Curve
-![ROC Curve](roc_curve.png)
+![ROC Curve](<img width="426" height="413" alt="ROC Curve" src="https://github.com/user-attachments/assets/5487d084-179c-47f2-9f46-f38828aa0823" />
+)
 
 ### Feature Importance
-![Feature Importance](feature_importance.png)
+![Feature Importance](<img width="542" height="460" alt="Feature Importance" src="https://github.com/user-attachments/assets/259c3dc8-6783-4d4c-8b28-1d811e8ace61" />
+)
 
 ### Precision-Recall Curve
-![Precision-Recall Curve](precision_recall_curve.png)
+![Precision-Recall Curve](<img width="646" height="532" alt="Precision Recall Curve" src="https://github.com/user-attachments/assets/879a379c-ec88-4b5b-be3a-25886fd5d487" />
+)
 
 ---
 
