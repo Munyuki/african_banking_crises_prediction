@@ -1,4 +1,3 @@
-markdown
 # Predicting Banking Crises in African Economies
 
 **Author:** Nicodimus Munyuki  
