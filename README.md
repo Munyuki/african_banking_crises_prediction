@@ -77,7 +77,7 @@ Used GridSearchCV to find optimal parameters for all three models.
 ## Visualizations
 
 ### ROC Curve
-![ROC Curve](<img width="426" height="413" alt="ROC Curve" src="https://github.com/user-attachments/assets/5487d084-179c-47f2-9f46-f38828aa0823" />
+(<img width="426" height="413" alt="ROC Curve" src="https://github.com/user-attachments/assets/5487d084-179c-47f2-9f46-f38828aa0823" />
 )
 
 ### Feature Importance
