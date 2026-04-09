@@ -96,7 +96,7 @@ Used GridSearchCV to find optimal parameters for all three models.
 
 ---
 
-Future Improvements
+## Future Improvements
 
 - **Add recent data (2015–present)** — To test if patterns hold in modern economies
 - **Experiment with time-series models (LSTM)** — To capture temporal crisis patterns
