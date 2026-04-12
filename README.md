@@ -83,7 +83,7 @@ The Random Forest model achieves an AUC of 0.99 on the ROC curve, meaning it exc
 ### Feature Importance
 <img width="670" height="532" alt="Feature_Importance" src="https://github.com/user-attachments/assets/0db9bbf4-9a5c-4f89-8286-083dee5495bb" />
 
-Feature importance confirms that systemic crises and year are the strongest predictors, followed by political independence and inflation. The presence of country-specific features (Egypt, South Africa) suggests that geographic context matters.
+Feature importance confirms that systemic crises and year are the strongest predictors, followed by political independence and inflation.
 
 ### Precision-Recall Curve
 <img width="646" height="532" alt="Precision Recall Curve" src="https://github.com/user-attachments/assets/879a379c-ec88-4b5b-be3a-25886fd5d487" />
