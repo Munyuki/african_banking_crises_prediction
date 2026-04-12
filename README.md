@@ -88,7 +88,7 @@ Feature importance confirms that systemic crises and year are the strongest pred
 ### Precision-Recall Curve
 <img width="646" height="532" alt="Precision Recall Curve" src="https://github.com/user-attachments/assets/879a379c-ec88-4b5b-be3a-25886fd5d487" />
 
-The Precision-Recall curve is especially informative for imbalanced data (only 8.9% crises). Random Forest achieves the highest Average Precision (AP = 0.936), meaning it maintains both high precision and recall across thresholds. This is critical in a crisis prediction setting — you want to avoid false alarms while still catching real crises.
+The Precision-Recall curve is useful for imbalanced data (only 8.9% crises). Random Forest achieves the highest Average Precision (AP = 0.936). It maintains both high precision and recall across thresholds. This significantly outperforms Logistic Regression and KNN. Hence, Random Forest is the most reliable model for imbalanced crisis prediction.
 
 ---
 
