@@ -78,12 +78,17 @@ Used GridSearchCV to find optimal parameters for all three models.
 ### ROC Curve
 <img width="426" height="413" alt="ROC Curve" src="https://github.com/user-attachments/assets/5487d084-179c-47f2-9f46-f38828aa0823" />
 
+The Random Forest model achieves an AUC of 0.99 on the ROC curve, meaning it excels at distinguishing between crisis and non-crisis years. A value this close to 1.0 indicates very few false positives and false negatives
+
 ### Feature Importance
 <img width="670" height="532" alt="Feature_Importance" src="https://github.com/user-attachments/assets/0db9bbf4-9a5c-4f89-8286-083dee5495bb" />
 
+Feature importance confirms that systemic crises and year are the strongest predictors, followed by political independence and inflation. The presence of country-specific features (Egypt, South Africa) suggests that geographic context matters.
 
 ### Precision-Recall Curve
 <img width="646" height="532" alt="Precision Recall Curve" src="https://github.com/user-attachments/assets/879a379c-ec88-4b5b-be3a-25886fd5d487" />
+
+The Precision-Recall curve is especially informative for imbalanced data (only 8.9% crises). Random Forest achieves the highest Average Precision (AP = 0.936), meaning it maintains both high precision and recall across thresholds. This is critical in a crisis prediction setting — you want to avoid false alarms while still catching real crises.
 
 ---
 
